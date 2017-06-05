@@ -4,9 +4,13 @@
 ### 工作经验：3年
 ### 联系方式：176-0026-5622 |（QQ：2373541744）
 ### E-mail： 17600265622@163.com
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+## 求职意向
+### 工作性质：全职
+### 期望职业：WEB前端开发
+### 期望行业：IT服务(系统/数据/维护)、计算机软件、互联网/电子商务
+### 期望月薪：面议
+### 目前状况：我目前处于离职状态，可立即上岗
 
 ```markdown
 Syntax highlighted code block
