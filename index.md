@@ -10,10 +10,7 @@
 ### 期望月薪：面议
 ### 目前状况：我目前处于离职状态，可立即上岗
 ## 自我评价
-### 熟练使用HTML5+CSS3、JavaScript等前端开发技术；在项目实践有bootstrap开发经验；能够熟练使用jQuery、Zepto、iScroll、Swiper 等库/插件来
-### 实现页面的动态效果且如需要使用原生JS写效果也没有问题、熟练使用AJAX技术请求数据并渲染页面，有独立通过已定义接口完成前后台交互的能力；熟悉
-### Angular.js和Vue.js 等主流框架，掌握官方API，并且结合gulp/webpack搭建环境做过实际项目；熟悉Node.js后台搭建，了解PHP，了解React以及微信
-### 小程序。
+### 熟练使用HTML5+CSS3、JavaScript等前端开发技术；在项目实践有bootstrap开发经验；能够熟练使用jQuery、Zepto、iScroll、Swiper 等库/插件来实现页面的动态效果且如需要使用原生JS写效果也没有问题、熟练使用AJAX技术请求数据并渲染页面，有独立通过已定义接口完成前后台交互的能力；熟悉Angular.js和Vue.js 等主流框架，掌握官方API，并且结合gulp/webpack搭建环境做过实际项目；熟悉Node.js后台搭建，了解PHP，了解React以及微信小程序。
 
 
 
